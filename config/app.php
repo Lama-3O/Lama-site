@@ -15,6 +15,14 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'providers' => [
+
+        'Collective\Html\HtmlServiceProvider',
+        ],
+        'aliases' => [
+        'Form' => 'Collective\Html\FormFacade',
+        ],
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
