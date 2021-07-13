@@ -36,7 +36,7 @@ class ContactUsFormController extends Controller {
             'user_query' => $request->get('message'),
         ), function($message) use ($request){
             $message->from($request->email);
-            $message->to('lama199703@gmail.com', 'Admin')->subject("Message from Lama website");
+            $message->to('lama.solutions.100@gmail.com', 'Admin')->subject("Message from Lama website");
         });
 
         return back()->with('success', 'We have received your message and would like to thank you for writing to us.');
