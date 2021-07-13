@@ -72,10 +72,10 @@
 worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using
 own initiative. I am able to work well under pressure and adhere to strict deadlines.</p>
                     <div class="social-icons">
-                        <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://www.linkedin.com/in/lama-abbas-66650a10a"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="https://mobile.twitter.com/HLO311"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="https://www.facebook.com/lama.abas.5"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
