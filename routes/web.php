@@ -2,7 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ContactUsFormController;
 
+Route::get('contact-us', 'ContactUSController@contactUS');
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -21,5 +23,14 @@ Route::get('/', function () {
 
 Route::get('/', 'HomeController@index');
 
+//Route::get('/contact', [ContactUsFormController::class, 'createForm']);
 
+//Route::post('/contact', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
 
+//Route::post('/contact', 'ContactUsFormController@ContactUsForm');// قسم تواصل معنا
+
+//Route::get('contact', [ContactUsFormController::class, 'createForm']);
+
+Route::get('/contact', [ContactUsFormController::class, 'createForm']);
+
+Route::post('/', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
