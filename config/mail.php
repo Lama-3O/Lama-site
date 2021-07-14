@@ -35,7 +35,6 @@ return [
 
     'mailers' => [
         'smtp' => [
-			'driver' => 'sendmail',
             'transport' => 'smtp',
             'host' => env('MAIL_HOST', 'smtp.gmail.com'),
             'port' => env('MAIL_PORT', 587),
