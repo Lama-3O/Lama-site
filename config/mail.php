@@ -36,7 +36,7 @@ return [
     'mailers' => [
         'smtp' => [
             'transport' => 'smtp',
-            'host' => env('MAIL_HOST', 'smtp.mailgun.org'),
+            'host' => env('MAIL_HOST', 'smtp.gmail.com'),
             'port' => env('MAIL_PORT', 587),
             'from' => ['address' => 'lama.solutions.100@gmail.com', 'name' => 'LL'],
             'encryption' => env('MAIL_ENCRYPTION', 'tls'),
