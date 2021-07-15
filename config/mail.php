@@ -36,15 +36,15 @@ return [
     'mailers' => [
         'smtp' => [
             'transport' => 'smtp',
-			//'driver' => env('MAIL_DRIVER', 'smtp'),
-            'host' => env('MAIL_HOST', 'smtp.gmail.com'),
-            'port' => env('MAIL_PORT', 587),
+			'driver' => 'smtp',
+            'host' => 'smtp.gmail.com',
+            'port' => 587,
             'from' => ['address' => 'lama.solutions.100@gmail.com', 'name' => 'LL'],
-            'encryption' => env('MAIL_ENCRYPTION', 'tls'),
-            'username' => env('MAIL_USERNAME'),
-            'password' => env('MAIL_PASSWORD'),
-            //'timeout' => null,
-            //'auth_mode' => null,
+            'encryption' => 'tls',
+            'username' => 'lama.solutions.100@gmail.com'
+            'password' => 'onddbvilwhayyiip'
+            'timeout' => null,
+            'auth_mode' => null,
             'sendmail' => '/usr/sbin/sendmail -bs',
             'pretend' => false,
         ],
