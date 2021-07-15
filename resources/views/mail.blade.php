@@ -8,7 +8,7 @@ Name: {{ $name }} <br>
 Email: {{ $email }} <br>
 Service: {{ $service }} <br>
 Type of product: {{ $type_product }} <br>
-Budget: from {{$from_value}} to {{$to_value}}
+Budget: from {{$from_value}} to {{$to_value}}<br>
 Message: {{ $user_query }} <br><br>
 
 Thanks
