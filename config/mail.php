@@ -36,7 +36,7 @@ return [
     'mailers' => [
         'smtp' => [
             'transport' => 'smtp',
-			'driver' => env('MAIL_DRIVER', 'smtp'),
+			//'driver' => env('MAIL_DRIVER', 'smtp'),
             'host' => env('MAIL_HOST', 'smtp.gmail.com'),
             'port' => env('MAIL_PORT', 587),
             'from' => ['address' => 'lama.solutions.100@gmail.com', 'name' => 'LL'],
