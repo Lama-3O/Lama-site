@@ -47,20 +47,7 @@ return [
             //'auth_mode' => null,
             'sendmail' => '/usr/sbin/sendmail -bs',
             'pretend' => false,
-        ],
-		'stream' => [
-				'ssl' => [
-					'allow_self_signed' => true,
-					'verify_peer' => false,
-					'verify_peer_name' => false,
-				],
-				'tls' => [
-					'allow_self_signed' => true,
-					'verify_peer' => false,
-					'verify_peer_name' => false,
-				],				
-		],		
-
+        ],		
         'ses' => [
             'transport' => 'ses',
         ],
@@ -100,7 +87,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'lama.solutions.100@gmail.com'),
+        'address' => env('MAIL_FROM_ADDRESS', 'lama199703@gmail.com'),
         'name' => env('MAIL_FROM_NAME', 'Example'),
     ],
 
@@ -122,5 +109,18 @@ return [
             resource_path('views/vendor/mail'),
         ],
     ],
+	
+	'stream' => [
+		'ssl' => [
+			'allow_self_signed' => true,
+			'verify_peer' => false,
+			'verify_peer_name' => false,
+		],
+		'tls' => [
+			'allow_self_signed' => true,
+			'verify_peer' => false,
+			'verify_peer_name' => false,
+			],				
+		],
 
 ];
