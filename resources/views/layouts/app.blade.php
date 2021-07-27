@@ -68,7 +68,7 @@
                         Software Developer <span style="color:white;"> ................... </span>
                         <a href="mailto:Lama199703@gmail.com">Lama199703@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced web development with a flair for creating elegant solutions in the least amount of time. I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team
+                    <p class="lead mb-5">I am experienced developer with a flair for creating elegant solutions in the least amount of time. I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team
 worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using
 own initiative. I am able to work well under pressure and adhere to strict deadlines.</p>
                     <div class="social-icons">
@@ -86,20 +86,22 @@ own initiative. I am able to work well under pressure and adhere to strict deadl
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Freelance Programmer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Created databases, data entry systems, web forms and other applications for diverse uses.</p>
+                            <h3 class="mb-0">Programmer</h3>
+                            <div class="subheading mb-3">Freelancer</div>
+                            <p>Created databases, data entry systems, web forms and other applications for diverse uses. Performed maintenance and Quality Assurance on existing websites as well as tested new sites in the final stages of pre-launch. Hunted and squashed bugs in front and limited back-end code.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">Novmber 2016 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Data Analyst</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
+                            <div class="subheading mb-3">Dubai Future Foundation</div>
                             <p>Had training with the One Million Arab Coder Initiative included using various types of algorithms to analyze and solve complex business problems.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">April 2018 - August 2018</span></div>
                     </div>
+
+                    <!-- 
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Junior Web Designer</h3>
@@ -108,11 +110,13 @@ own initiative. I am able to work well under pressure and adhere to strict deadl
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">Novmber 2018 - Present</span></div>
                     </div>
+                    -->
+
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Developer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Worked for Cube Master Company as developer, where I learned & worked on many technologies, such as PHP Laravel, Bootstrap, livewire, Electron, SEO, and Github.</p>
+                            <h3 class="mb-0">SOFTWARE DEVELOPER</h3>
+                            <div class="subheading mb-3">Cube Master institution</div>
+                            <p>Worked for Cube Master as developer, where I learned & worked on many technologies, such as PHP Laravel, Bootstrap, livewire, Electron, SEO, and Github.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">June 2020 - September 2020</span></div>
                     </div>
@@ -192,7 +196,8 @@ own initiative. I am able to work well under pressure and adhere to strict deadl
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a software developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
+                    <!-- I enjoy playing chess as a way to clean and reorganize my concentration -->
+                    <p>Apart from being a software developer, I enjoy most of my time being outdoors. In the early morning, I enjoy staying fit and exercise for a while.</p>
                     <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
                 </div>
             </section>
@@ -216,34 +221,24 @@ own initiative. I am able to work well under pressure and adhere to strict deadl
                         </li>                        
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Cisco Network Academy
+                            Cisco Network Academy Certification
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             1
                             <sup>st</sup>
-                            Place - KING FAISAL UNIVERSITY - annual local programming competition 
+                            Place winner in the annual local programming competition - KING FAISAL UNIVERSITY 
                         </li>
                         <li>
                         <a href="https://twitter.com/ProgclubGroup/status/1224710635323260929?s=19">https://twitter.com/ProgclubGroup/status/1224710635323260929?s=19</a>
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
+                            The founder of Robotics Club - KING FAISAL UNIVERSITY
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
+                            Mobile App Development Certificate - KING FAISAL UNIVERSITY
                         </li>
                     </ul>
                 </div>
