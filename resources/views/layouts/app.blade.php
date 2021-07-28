@@ -34,6 +34,11 @@
 	<link rel="stylesheet" type="text/css" href="vendor/noui/nouislider.min.css">
 <!--===============================================================================================-->
 
+
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -398,7 +403,7 @@ own initiative. I am able to work well under pressure and adhere to strict deadl
 					<button class="contact100-form-btn" type="submit" name="send" value="Submit">
 						<span>
 							Submit
-							<i class="fa arrow-right" aria-hidden="true"></i>
+							<i class="fas fa-arrow-right" aria-hidden="true"></i>
 						</span>
 					</button>
 				</div>

@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * Select2 4.0.3
  * https://select2.github.io
  *
@@ -1499,7 +1499,7 @@ S2.define('select2/selection/single',[
 
     $selection.html(
       '<span class="select2-selection__rendered"></span>' +
-      '<span class="select2-selection__arrow" role="presentation">' +
+      '<span role="presentation">' +
         '<b role="presentation"></b>' +
       '</span>'
     );
